@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "crypto-hash": "^3.0.0",
+    "ethers": "^6.2.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "web3": "^1.7.3"
+  }
+}
